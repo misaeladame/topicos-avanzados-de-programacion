@@ -1,0 +1,20 @@
+/*------------------------------------------------------------------------------------------
+:*                       INSTITUTO TECNOLOGICO DE LA LAGUNA
+:*                     INGENIERIA EN SISTEMAS COMPUTACIONALES
+:*                       TOPICOS AVANZADOS DE PROGRAMACION "B"
+:*
+:*                   SEMESTRE: ENE-JUN/2020    HORA: 17-18 HRS
+:*
+:*                       descripcion breve de la clase (centrado)
+:*        
+:*  Archivo     : nombreArchivo.java
+:*  Autor       : José Misael Adame Sandoval     18131209
+:*  Fecha       : dd/mmm/2020
+:*  Compilador  : JAVA J2SE v1.8.0
+:*  Descripción : descripcion funcional más detallada de lo que hace esta clase
+:*                puede usar varios renglones
+:*  Ultima modif:
+:*  Fecha       Modificó             Motivo
+:*========================================================================================== 
+:*  dd/mmm/aaaa Misael Adame         Motivo de la modificacion, puede ser en mas de 1 renglon.
+:*------------------------------------------------------------------------------------------*/

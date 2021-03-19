@@ -1,0 +1,9 @@
+librerias JAR del controlador JDBC =
+	C:\Program Files\Java\jdk1.8.0_172\db\lib\derbyclient.jar
+	C:\Program Files\Java\jdk1.8.0_172\db\lib\derby.jar
+
+driverJDBC  = org.apache.derby.jdbc.ClientDriver
+urlConexion = jdbc:derby://localhost:1527/TAPdb
+usuario     = topicos
+contrasena  = 1234
+
